@@ -1,0 +1,11 @@
+## Interface: 100100
+
+## Title: HardcoreDeathHorn
+## Notes: Cya nerd
+
+## Version: 0.1
+
+## Author: Sean
+
+## Core ##
+HardcoreDeathHorn.lua
